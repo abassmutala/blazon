@@ -1,0 +1,9 @@
+const String PreAuthViewRoute = "PreAuthView";
+const String LoginViewRoute = "Login";
+const String ForgotPasswordRoute = "ForgotPassword";
+const String VerifyCodeRoute = "VerifyCode";
+const String MainScreenRoute = "MainScreen";
+const String MyCardsRoute = "MyCards";
+const String SignUpViewRoute = "SignUp";
+const String  NotificationsRoute = "Notifications";
+// const String  = "";
